@@ -1,0 +1,9 @@
+.app {
+  text-align: center;
+  padding: 5vw;
+}
+.app-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

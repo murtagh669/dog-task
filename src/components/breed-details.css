@@ -1,0 +1,17 @@
+.breed-container{
+  padding: 5px;
+}
+
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+  }
+  .image-card {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
